@@ -1,2 +1,1 @@
-# python-collect
-some python scripts
+###收集的一些python例子和脚本
