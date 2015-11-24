@@ -1,7 +1,7 @@
 #!/user/bin/python
 # -*- coding: utf-8 -*-
 # Filename: cleanpyc.py
-
+ 
 import os
 import fnmatch
 import sys
